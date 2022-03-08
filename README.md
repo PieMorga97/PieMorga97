@@ -5,7 +5,7 @@ I'm from Italy and currently, I live in Taiwan and you can also call me Peter.
 Now I'm studying at the Department of Information Technology Communication at the Shih Chien University (USC). 
 Since I was a teenager my family and I have been in a close relationship with the oriental world, for we lived in Shanghai for several years. I attended and Chinese school with Chinese students, I immediately began to experience Chinese culture and people's habits. This chapter of my life influenced also my character: I am polite, social, outgoing, hardworking, and also a very sportive person I practice a lot of different sports.
 
-[![Twitter Badge](https://img.shields.io/badge/-@PieMorga97-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PieMorga97)](https://twitter.com/PieMorga97) 
+[![Twitter Badge](https://img.shields.io/badge/-@PieMorga97-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PieMorga97)](https://twitter.com/PieMorga97)[![Linkedin Badge](https://img.shields.io/badge/-Morganti Pietro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-morganti/)
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
@@ -13,4 +13,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: pietro.morganti@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PieMorga97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pietro-morganti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pietro.morganti.97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PieMorga97)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PieMorga97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pietro-morganti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pietro.morganti.97) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PieMorga97)
