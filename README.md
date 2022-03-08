@@ -19,7 +19,10 @@ Since I was a teenager my family and I have been in a close relationship with th
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="20" src="http://wwwimages.adobe.com/content/dam/acom/en/badges-buttons/images/Adobe_standard_logo_RGB.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_photoshop_folder_icon_133961.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_illustrator_folder_icon_133969.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_lightroom_folder_icon_133960.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/3070/PNG/512/adobe_premiere_pro_premiere_pro_multimedia_software_aplication_icon_191049.png"></code>
 
 - 🔭 I’m currently working on a University Project 
 - 🌱 I’m currently learning Web Development 
