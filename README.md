@@ -13,4 +13,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on a University Project 
 - 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: pietro.morganti@gmail.com
-- :bookmark_tabs: Download [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :bookmark_tabs: Download [My Resume/CV](https://github.com/PieMorga97/PieMorga97/blob/main/Morganti_CV_2021.pdf)
