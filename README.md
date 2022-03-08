@@ -1,6 +1,6 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Morganti Pietro but you can call me Peter
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Morganti Pietro but you can call me Peter
 
-# I'm graduating from Shih Chien University, Taiwan 🎓
+### I'm graduating from Shih Chien University, Taiwan 🎓
 I'm from Italy and currently, I live in Taiwan. 
 Now I'm studying at the Department of Information Technology Communication at the Shih Chien University (USC). 
 Since I was a teenager my family and I have been in a close relationship with the oriental world, for we lived in Shanghai for several years. I attended and Chinese school with Chinese students, I immediately began to experience Chinese culture and people's habits. This chapter of my life influenced also my character: I am polite, social, outgoing, hardworking, and also a very sportive person I practice a lot of different sports.
