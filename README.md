@@ -5,7 +5,7 @@ I'm from Italy and currently, I live in Taiwan and you can also call me Peter.
 Now I'm studying at the Department of Information Technology Communication at the Shih Chien University (USC). 
 Since I was a teenager my family and I have been in a close relationship with the oriental world, for we lived in Shanghai for several years. I attended and Chinese school with Chinese students, I immediately began to experience Chinese culture and people's habits. This chapter of my life influenced also my character: I am polite, social, outgoing, hardworking, and also a very sportive person I practice a lot of different sports.
 
-[![Twitter Badge](https://img.shields.io/badge/-@PieMorga97-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PieMorga97)](https://twitter.com/Ipenywis) 
+[![Twitter Badge](https://img.shields.io/badge/-@PieMorga97-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PieMorga97)](https://twitter.com/PieMorga97) 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
