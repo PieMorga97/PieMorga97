@@ -1,5 +1,3 @@
-<img src="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_960_720.jpg" width="800" height="300px">
-
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Morganti Pietro
 
 ### I'm graduating from Shih Chien University, Taiwan 🎓
@@ -10,7 +8,7 @@ Since I was a teenager my family and I have been in a close relationship with th
 [![Linkedin Badge](https://img.shields.io/badge/-MorgantiPietro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-morganti/)
 [![Github Badge](https://img.shields.io/badge/-PieMorga97-262626?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/PieMorga97)](https://github.com/PieMorga97) [![Twitter Badge](https://img.shields.io/badge/-@PieMorga97-12b8d7?style=flat&labelColor=12b8d7&logo=twitter&logoColor=white&link=https://twitter.com/PieMorga97)](https://twitter.com/PieMorga97) [![Facebook Badge](https://img.shields.io/badge/-Pietro-1297d7?style=flat&labelColor=1297d7&logo=facebook&logoColor=white)](https://www.facebook.com/pietro.morganti.97) 
 
-**languages and tools:**  
+**languages and tools:**  <img src="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_960_720.jpg" width="auto" height="auto">
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
