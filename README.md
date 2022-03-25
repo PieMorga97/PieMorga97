@@ -8,7 +8,7 @@ Since I was a teenager my family and I have been in a close relationship with th
 [![Linkedin Badge](https://img.shields.io/badge/-MorgantiPietro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-morganti/)
 [![Github Badge](https://img.shields.io/badge/-PieMorga97-262626?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/PieMorga97)](https://github.com/PieMorga97) [![Twitter Badge](https://img.shields.io/badge/-@PieMorga97-12b8d7?style=flat&labelColor=12b8d7&logo=twitter&logoColor=white&link=https://twitter.com/PieMorga97)](https://twitter.com/PieMorga97) [![Facebook Badge](https://img.shields.io/badge/-Pietro-1297d7?style=flat&labelColor=1297d7&logo=facebook&logoColor=white)](https://www.facebook.com/pietro.morganti.97) 
 
-<img align="right" alt="jpg" src="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_960_720.jpg" width="450" height="320" />
+<img align="right" alt="jpg" src="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_960_720.jpg" width="350" height="220" />
 
 <br />
 
