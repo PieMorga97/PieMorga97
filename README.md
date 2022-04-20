@@ -10,10 +10,15 @@ Since I was a teenager my family and I have been in a close relationship with th
 [![Linkedin Badge](https://img.shields.io/badge/-MorgantiPietro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-morganti/)
 [![Github Badge](https://img.shields.io/badge/-PieMorga97-262626?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/PieMorga97)](https://github.com/PieMorga97) [![Twitter Badge](https://img.shields.io/badge/-@PieMorga97-12b8d7?style=flat&labelColor=12b8d7&logo=twitter&logoColor=white&link=https://twitter.com/PieMorga97)](https://twitter.com/PieMorga97) [![Facebook Badge](https://img.shields.io/badge/-Pietro-1297d7?style=flat&labelColor=1297d7&logo=facebook&logoColor=white)](https://www.facebook.com/pietro.morganti.97) 
 
+---
+**GRAFICI**
+
 - 🔭 I’m currently working on a University Project 
 - 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: pietro.morganti@gmail.com
 - :bookmark_tabs: Download here [My Resume/CV](https://github.com/PieMorga97/PieMorga97/blob/main/resumes/Morganti_CV_2021.pdf)
+
+---
 
 **languages and tools:**
 
@@ -33,10 +38,12 @@ Since I was a teenager my family and I have been in a close relationship with th
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/3070/PNG/512/adobe_premiere_pro_premiere_pro_multimedia_software_aplication_icon_191049.png"></code>
 
 
+<!--
 ---
-**NOTE**
+**GRAFICI**
 
 [![card](https://github-readme-stats.vercel.app/api?username=PieMorga97&theme=default&show_icons=true)](https://github.com/PieMorga97/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=PieMorga97&hide=html&layout=compact&theme=default)](https://github.com/PieMorga97/)
 ---
+-->
 
