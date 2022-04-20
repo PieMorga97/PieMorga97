@@ -32,5 +32,5 @@ Since I was a teenager my family and I have been in a close relationship with th
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_lightroom_folder_icon_133960.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/3070/PNG/512/adobe_premiere_pro_premiere_pro_multimedia_software_aplication_icon_191049.png"></code>
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/iuricode/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=PieMorga97&theme=default&show_icons=true)](https://github.com/PieMorga97/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=PieMorga97&hide=html&layout=compact&theme=default)](https://github.com/PieMorga97/)
