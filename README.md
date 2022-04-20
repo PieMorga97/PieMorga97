@@ -8,8 +8,16 @@ Since I was a teenager my family and I have been in a close relationship with th
 
 <img align="right" alt="jpg" src="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_960_720.jpg" width="350" height="260" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-MorgantiPietro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-morganti/)
-[![Github Badge](https://img.shields.io/badge/-PieMorga97-262626?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/PieMorga97)](https://github.com/PieMorga97) [![Twitter Badge](https://img.shields.io/badge/-@PieMorga97-12b8d7?style=flat&labelColor=12b8d7&logo=twitter&logoColor=white&link=https://twitter.com/PieMorga97)](https://twitter.com/PieMorga97) [![Facebook Badge](https://img.shields.io/badge/-Pietro-1297d7?style=flat&labelColor=1297d7&logo=facebook&logoColor=white)](https://www.facebook.com/pietro.morganti.97) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/piemorga97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piemorga97" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pietro-morganti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piemorga97" height="30" width="40" /></a>
+<a href="https://fb.com/pietro.morganti.97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pietro morganti" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/Hnam8Ur9z3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://discord.gg/Hnam8Ur9z3" height="30" width="40" /></a>
+<a href="https://github.com/PieMorga97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Hnam8Ur9z3" height="30" width="40" /></a>
+</p>
+
+[![Github Badge](https://img.shields.io/badge/-PieMorga97-262626?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/PieMorga97)](https://github.com/PieMorga97)
 
 ---
 **WORK**
@@ -32,29 +40,3 @@ Since I was a teenager my family and I have been in a close relationship with th
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=PieMorga97&hide=html&layout=compact&theme=default)](https://github.com/PieMorga97/)
 ---
 -->
-
-<h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate developer from Italy</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piemorga97&label=Profile%20views&color=0e75b6&style=flat" alt="piemorga97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piemorga97" alt="piemorga97" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/piemorga97" target="blank"><img src="https://img.shields.io/twitter/follow/piemorga97?logo=twitter&style=for-the-badge" alt="piemorga97" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/piemorga97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piemorga97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pietro-morganti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piemorga97" height="30" width="40" /></a>
-<a href="https://fb.com/pietro.morganti.97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pietro morganti" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Hnam8Ur9z3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Hnam8Ur9z3" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piemorga97&show_icons=true&locale=en&layout=compact" alt="piemorga97" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piemorga97&show_icons=true&locale=en" alt="piemorga97" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piemorga97&" alt="piemorga97" /></p>
