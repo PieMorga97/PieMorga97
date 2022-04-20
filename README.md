@@ -45,8 +45,8 @@ Since I was a teenager my family and I have been in a close relationship with th
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/piemorga97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piemorga97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piemorga97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piemorga97" height="30" width="40" /></a>
-<a href="https://fb.com/pietro morganti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pietro morganti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pietro-morganti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piemorga97" height="30" width="40" /></a>
+<a href="https://fb.com/pietro.morganti.97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pietro morganti" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Hnam8Ur9z3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Hnam8Ur9z3" height="30" width="40" /></a>
 </p>
 
