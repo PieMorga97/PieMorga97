@@ -1,11 +1,9 @@
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Morganti Pietro </h1>
 <h3 align="center">A passionate software developer from Italy</h3>
 
-#### I'm graduating from Shih Chien University, Taiwan 🎓
+#### I'm graduated from Shih Chien University, Taiwan 🎓
 I'm from Italy and currently, I live in Taiwan and you can also call me Peter. <br />
-Now I'm studying at the Department of Information Technology Communication at the Shih Chien University (USC). <br />
-Since I was a teenager my family and I have been in a close relationship with the oriental world, for we lived in Shanghai for several years. I attended and Chinese school with Chinese students, I immediately began to experience Chinese culture and people's habits. This chapter of my life influenced also my character: I am polite, social, outgoing, hardworking, and also a very sportive person I practice a lot of different sports.
-
+Computer science is my biggest interest and I love programming. Since I was a teenager, I have had a close relationship with the Oriental world, I have lived in Shanghai for several years, which helped me to mature. In the various chapters of my life, I have been able to learn a lot and forge my character: I am polite, sociable, outgoing and also very sportive. I believe the characteristic that represents me most is “never give up”. When faced with difficulties, I always look and found for solution, and looking forward to learn new things at the same time.
 <img align="right" alt="jpg" src="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_960_720.jpg" width="350" height="260" />
 
 <h3 align="left">Connect with me:</h3>
