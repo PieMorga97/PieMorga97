@@ -3,7 +3,8 @@
 
 #### I'm graduated from Shih Chien University, Taiwan 🎓
 I'm from Italy and currently, I live in Taiwan and you can also call me Peter. <br />
-Computer science is my biggest interest and I love programming. Since I was a teenager, I have had a close relationship with the Oriental world, I have lived in Shanghai for several years, which helped me to mature. In the various chapters of my life, I have been able to learn a lot and forge my character: I am polite, sociable, outgoing and also very sportive. I believe the characteristic that represents me most is “never give up”. When faced with difficulties, I always look and found for solution, and looking forward to learn new things at the same time.<br />
+Computer science is my biggest interest and I love programming. Since I was a teenager, I have had a close relationship with the Oriental world, I have lived in Shanghai for several years, which helped me to mature. In the various chapters of my life, I have been able to learn a lot and forge my character: I am polite, sociable, outgoing and also very sportive. I believe the characteristic that represents me most is “never give up”. When faced with difficulties, I always look and found for solution, and looking forward to learn new things at the same time.
+
 <img align="right" alt="jpg_cp" src="https://github.com/PieMorga97/PieMorga97/blob/main/resumes/laptop.jpg" width="350" height="260" />
 
 <h3 align="left">Connect with me:</h3>
