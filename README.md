@@ -19,8 +19,8 @@ Computer science is my biggest interest and I love programming. Since I was a te
 ---
 **WORK**
 
-- 🔭 I’m currently working on a University Project 
-- 🌱 I’m currently learning Web Development 
+- 🔭 I’m currently working on a Laravel e-commerce Project 
+- 🌱 I’m currently learning Software Development 
 - 📫 How to reach me: pietro.morganti@gmail.com
 - :bookmark_tabs: Download here [My Resume/CV](https://github.com/PieMorga97/PieMorga97/blob/main/resumes/Morganti_CV_2022.pdf)
 
